@@ -1,0 +1,6 @@
+{
+  "name": "Ice Plant × Dragon 9",
+  "description": "Dynamic bilingual seasonal shop storefront & tablet order kiosk powered by the Dragon 9 Tokyo Node time engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
